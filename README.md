@@ -1,16 +1,17 @@
 ### Hi there 👋
+My name is Johannes Ulén. I'm a Swedish developer, focused on full-stack development. I've been programming since I was around 8 years old, when my father introduced me to Basic of all things via some programming book with cartoon robots in it (please contact me if you know what book I'm talking about).
 
-<!--
-**ejulen/ejulen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stuff I like or am interested in in no particular order:
+* JS
+  * React
+  * Vue
+* Python
+  * FastAPI
+* Elixir
+  * Phoenix
+* Zig
+* Rust
+* PHP
+  * Laravel
+* SQL databases, especially Postgres
+* Game development
